@@ -1,0 +1,111 @@
+{
+  "kpis": {
+    "total_publicaciones": 82,
+    "publicaciones_originales": 81,
+    "reenvios": 1,
+    "periodo": "2026-08-02 → 2026-10-30",
+    "dias_del_periodo": 90,
+    "dias_con_publicacion": 72,
+    "constancia_pct": 80.0,
+    "posts_por_semana": 6.38,
+    "dias_con_mas_de_un_post": 8,
+    "pct_con_link": 91.5
+  },
+  "mensual": [
+    {
+      "mes": "2026-08",
+      "publicaciones": 32,
+      "dias_activos": 25
+    },
+    {
+      "mes": "2026-09",
+      "publicaciones": 25,
+      "dias_activos": 22
+    },
+    {
+      "mes": "2026-10",
+      "publicaciones": 25,
+      "dias_activos": 25
+    }
+  ],
+  "formato_pct": {
+    "Banco de proyectos": {
+      "2026-08": 15.6,
+      "2026-09": 20.0,
+      "2026-10": 20.0
+    },
+    "Empleo y pasantías": {
+      "2026-08": 6.2,
+      "2026-09": 16.0,
+      "2026-10": 20.0
+    },
+    "Entrevistas y práctica": {
+      "2026-08": 0.0,
+      "2026-09": 8.0,
+      "2026-10": 12.0
+    },
+    "Opinión y tendencias": {
+      "2026-08": 6.2,
+      "2026-09": 16.0,
+      "2026-10": 8.0
+    },
+    "Proyecto guiado": {
+      "2026-08": 40.6,
+      "2026-09": 28.0,
+      "2026-10": 16.0
+    },
+    "Rutas y conceptos": {
+      "2026-08": 31.2,
+      "2026-09": 12.0,
+      "2026-10": 24.0
+    }
+  },
+  "cambio_temas_pp": {
+    "Carrera profesional": 38.6,
+    "Agentes de IA": 10.1,
+    "MLOps y producción": 9.8,
+    "Python y datos": 1.2,
+    "Multi-agente": 0.9,
+    "MCP": -6.2,
+    "IA general": -8.5,
+    "RAG y documentos": -11.6,
+    "Visión y multimodal": -12.5,
+    "LLMs y GenAI": -23.2
+  },
+  "dia_semana": {
+    "Lun": 12,
+    "Mar": 10,
+    "Mié": 14,
+    "Jue": 13,
+    "Vie": 15,
+    "Sáb": 8,
+    "Dom": 10
+  },
+  "rachas_sin_post": [
+    {
+      "desde": "2026-09-05",
+      "hasta": "2026-09-08",
+      "dias_sin_post": "4"
+    },
+    {
+      "desde": "2026-09-14",
+      "hasta": "2026-09-16",
+      "dias_sin_post": "3"
+    },
+    {
+      "desde": "2026-10-18",
+      "hasta": "2026-10-19",
+      "dias_sin_post": "2"
+    },
+    {
+      "desde": "2026-08-06",
+      "hasta": "2026-08-06",
+      "dias_sin_post": "1"
+    },
+    {
+      "desde": "2026-08-20",
+      "hasta": "2026-08-20",
+      "dias_sin_post": "1"
+    }
+  ]
+}
